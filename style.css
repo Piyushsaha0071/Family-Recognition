@@ -1,0 +1,22 @@
+body{
+
+background-color:red;    
+font-size:30px;
+}
+.heading{
+    width:100%;
+    font-size:23px;
+}
+.name_of_objects{
+    color:orange;
+}
+#camera, #result{
+    border:2px dashed cyan;
+    width:350px;
+    height:300px;
+}
+button{
+    font-size:40px;
+    background-color:rgb(242, 9, 226);
+    color:rgb(76, 247, 8);
+}
